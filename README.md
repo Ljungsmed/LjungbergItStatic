@@ -1,0 +1,1 @@
+This is a test of building a NextJS app with custom HTML from scratch
